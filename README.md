@@ -1,5 +1,5 @@
 # Great Auk radiocarbon & historical sighting dataset
-Data associated to the manuscript “When dates disagree: radiocarbon and sighting-based models reveal unexpected range-wide variability in Great Auk (Pinguinus impennis) persistence” in Biology Letters, by Lucia Snyderman, Kevin Burgio, Arthur Anderson, Olivia Olson, Samuel Turvey, and Alexis Mychajliw.
+Data associated to the manuscript “When dates disagree: radiocarbon and sighting-based models reveal unexpected range-wide variability in Great Auk (Pinguinus impennis) persistence” in Biology Letters, by Lucia Snyderman, Dr. Kevin Burgio, Dr. Arthur Anderson, Olivia Olson, Prof. Samuel Turvey, and Dr. Alexis Mychajliw.
 
 # Abstract:
 1. Methods for inferring extinction are well established for events that either occurred on millennial timescales (e.g., the late Quaternary) or are unfolding in the present. However, these methods employ distinct data types inherent to palaeontological or neontological settings, yielding a potentially disjointed view of the extinction process that may limit the application of conservation lessons from the fossil record.
