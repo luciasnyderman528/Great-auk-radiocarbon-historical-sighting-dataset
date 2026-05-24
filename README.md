@@ -9,6 +9,8 @@ Data associated to the manuscript “When dates disagree: radiocarbon and sighti
 
 # Folders & Data:
 - Radiocarbon: Contains an excel sheet ("Radiocarbon Dataset") with all radiocarbon dates and their associated information (institution, locality, date, etc.) and different tabs showing all the separate model runs and all extinction estimates, and a Word document with all the OxCal code for thinning the dataset ("OxCal Thinning Code").
-- Sightings: Contains an excel sheet ("Great Auk Names") with all Great Auk names (and citations) used to search for records, and another excel sheet ("Historical Sighting Dataset") with all the records and their associated information (date, year, locality, etc.) and different tabs showing all the separate model runs and all extinction estimates. 
+- Sightings: Contains an excel sheet ("Great Auk Names") with all Great Auk names (and citations) used to search for records, and another excel sheet ("Historical Sighting Dataset") with all the records and their associated information (date, year, locality, etc.) and different tabs showing all the separate model runs and all extinction estimates.
+
+The "Methods.docx" document contains supplemental detailed information about all our methods. 
 
 If you have any questions, please email me: Lucia.Snyderman@ioz.ac.uk. 
